@@ -1,3 +1,5 @@
+Does an entity's PCI DSS assessment result expire when the standard against which the entity was assessed is retired?
+
 No. The period for which an entity's PCI DSS assessment result is valid does not change if the standard against which the entity was assessed has been retired. However, how long an assessment result is valid and how frequently an entity must be reassessed is determined by organizations that manage compliance programs (for example, payment brands and acquirers).<br/>
 <br/>
 
