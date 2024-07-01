@@ -1,0 +1,1 @@
+Security of payment card data is the responsibility of every business that participates in payment processing. Single industry-level security standards supported by the members of the PCI Security Standards Council eliminate competing and overlapping brand-specific requirements, thereby simplifying compliance for businesses that store payment card data.

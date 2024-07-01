@@ -1,0 +1,1 @@
+Since the individual payment brands are responsible for their own PCI DSS compliance programs, organizations should follow each brand's specific compliance processes and procedures.

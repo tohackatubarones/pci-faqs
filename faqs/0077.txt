@@ -1,0 +1,1 @@
+No.  PCI P2PE allows for P2PE component providers to formalize the process of assessing third parties.  Therefore, it is not allowable to perform partial P2PE assessments and reuse (for example, via a partial P-ROV) those partial assessments for either P2PE component provider and/or solution provider assessments. 

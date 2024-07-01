@@ -1,0 +1,3 @@
+Compliance questions, including questions about whether it is acceptable to submit a PCI DSS v3.2.1 assessment report after that standard's retirement date of 31 March 2024, should be directed to organizations that manage compliance programs (for example, payment brands and acquirers). <span style="color: #383637">Contact details for the payment brands can be found in FAQ #1142 'How do I contact the payment card brands'?<br/>
+
+Also refer to the following related FAQs:

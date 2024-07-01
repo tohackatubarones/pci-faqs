@@ -1,0 +1,3 @@
+<span style="color: black">Yes. P2PE solutions validated to P2PE v3.0 can contain P2PE components and applications validated using P2PE v2.0. Note the P2PE v2 components are governed by the P2PE v2 Program Guide. The v3 solution assessment is governed by the P2PE v3 Program Guide. <br/>
+<br/>
+<span style="color: black">See also FAQ <i>Can PCI-listed P2PE v3 Components be used as part of a P2PE v2 Solution assessment? a</i>nd<i> Which P2PE Program Guide do I use?</i>

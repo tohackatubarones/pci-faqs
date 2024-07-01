@@ -1,0 +1,12 @@
+No, entities are not expected to conduct onsite assessments of work-from-home (WFH) environments, as home environments are not owned or controlled by the entity.<br/>
+<br/>
+
+Entities are expected to have controls and processes in place governing how personnel working from home access payment card account data. Controls and processes should also be implemented to provide assurance that payment card account data is protected in accordance with applicable security requirements.<br/>
+<br/>
+
+See also the following FAQs:<br/>
+
+FAQ 1494:  <i><a data-lr="1" href="/faq/articles/Frequently_Asked_Question/For-personnel-working-from-home-is-the-work-from-home-environment-considered-a-sensitive-area-for-PCI-DSS-Requirement-9" rel="noopener" target="_blank">For personnel working from home, is the work-from-home environment considered a "sensitive area" for PCI DSS Requirement 9?</a></i><br/>
+<br/>
+
+FAQ 1495: <i> <a data-lr="2" href="/faq/articles/Frequently_Asked_Question/Is-an-assessor-required-to-visit-work-from-home-environments-to-determine-if-personnel-are-meeting-PCI-DSS-requirements" rel="noopener" target="_blank">Is an assessor required to visit work-from-home environments to determine if personnel are meeting PCI DSS requirements?</a></i>

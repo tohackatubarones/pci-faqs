@@ -1,0 +1,1 @@
+The current version of PA-DSS is v3.2.  Effective 1 September 2016, all new payment applications must be validated using PA-DSS v3.2.

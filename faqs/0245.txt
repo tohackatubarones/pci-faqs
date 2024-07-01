@@ -1,0 +1,1 @@
+See also FAQ # 1086  <a data-lr="2" href="/faq/articles/Frequently_Asked_Question/Is-encrypted-cardholder-data-in-scope-for-PCI-DSS" rel="noopener" target="_blank">Is encrypted cardholder data in scope for PCI DSS?</a>

@@ -1,0 +1,7 @@
+No. It is not acceptable for reports (draft or final) to be issued to clients, acquirers, issuers, or other parties for review/amendment before being sent to payment brands and/or acquirers. PCI Forensic Investigators (PFIs) are obliged under the terms of the PFI Program Guide to provide Preliminary Incident Response Reports and Final PFI Reports to their client, each affected payment brand, and their client's affected acquirer(s). The reports must be sent to all parties (clients, affected payment brands and all affected acquirer(s) identified in Appendix C of the Final PFI Report) at the same time.<br/>
+<br/>
+
+Appendix A of the PFI Program Guide describes the provisions PFI Companies must include in their contracts to support the report delivery requirements. Appendix C: Impacted Entities should be broken out into separate lists for each acquirer (if more than one acquirer is involved), with a complete "master list" provided to each affected payment brand. <br/>
+<br/>
+
+The judgements, conclusions, and findings in PFI reports must be based solely on the factual evidence obtained during the investigation and reflect the independent judgement, findings, and conclusion of the PFI company. If an amendment is required to a Final PFI Report post-issue, for example to correct a factual error or omission, the amendment must be clearly evidenced in the Table of Changes in the revised report and the report version number incremented appropriately.

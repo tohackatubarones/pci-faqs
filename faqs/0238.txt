@@ -1,0 +1,6 @@
+<span style="color: #383637">Entities should always contact their acquirer or the payment brands directly for information about their compliance programs and reporting requirements. Contact details for the payment brands can be found in FAQ #1142 <a data-lr="1" href="/faq/articles/Frequently_Asked_Question/How-do-I-contact-the-payment-card-brands" rel="noopener" target="_blank">How do I contact the payment card brands?</a><br/>
+
+As clarifications and additional guidance provided in updated PCI DSS versions may facilitate the implementation of requirements and address current threats, organizations are strongly encouraged to complete their transition to the most current PCI DSS version as early as possible.<br/>
+<br/>
+
+Also refer to the following related FAQs:

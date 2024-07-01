@@ -1,0 +1,1 @@
+The PCI Security Standards Council will make reasonable efforts to evaluate global coverage for both QSAs and ASVs, and will attempt to identify and encourage participation by qualified parties to foster broad adoption of the PCI DSS.

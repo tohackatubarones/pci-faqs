@@ -1,0 +1,7 @@
+<span style="color: #383838">Yes. All PFI Companies are also QSA Companies. A PFI Company may provide QSA Services (as defined in the QSA Agreement) to an entity after performing a PFI investigation for that entity.<br/>
+<br/>
+
+However, it should be noted it is highly unlikely the PFI Company could perform a subsequent PFI investigation for the entity (should that become necessary) without violating the independence requirements of the PFI program.<br/>
+<br/>
+
+With that being said, compliance programs are managed by the payment brands. PFI Companies should contact the payment brands directly to understand compliance program requirements when asked to provide QSA Services after performing a PFI investigation. Contact details for the payment brands can be found in FAQ #1142?<a data-lr="1" href="/faq/articles/Frequently_Asked_Question/How-do-I-contact-the-payment-card-brands" rel="noopener" target="_blank">How do I contact the payment card brands?</a>

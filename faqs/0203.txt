@@ -1,0 +1,1 @@
+Merchants and service providers that validate PCI DSS compliance using a Self-Assessment Questionnaire (SAQ) will typically complete the following steps:

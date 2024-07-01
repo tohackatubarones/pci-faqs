@@ -1,0 +1,1 @@
+If the ISP only provides a "pipe" for internet access, then it is not considered a service provider and is not subject to PCI DSS compliance. However, if the ISP is providing additional services such as firewalls or hosting functions, it is considered a service provider and would need to comply with the PCI DSS.

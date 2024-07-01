@@ -1,0 +1,1 @@
+1) <b>Annual assessment: </b>TPSPs undergo an annual PCI DSS assessment(s) and provide evidence to their customers to demonstrate that they meet the applicable PCI DSS requirements, or

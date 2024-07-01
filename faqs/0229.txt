@@ -1,0 +1,1 @@
+PCI DSS provides a solid baseline of security requirements that can be used to protect non-payment card data. However, entities should consult with the applicable regulatory body and/or the data owner, as appropriate, to understand the suitability of using PCI DSS requirements to protect the data in question.

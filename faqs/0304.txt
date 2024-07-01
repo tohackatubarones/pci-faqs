@@ -1,0 +1,13 @@
+PCI DSS requirements apply to all system components, unless it is has been verified that a particular requirement is not applicable for a particular system.  Decisions about the applicability of PCI DSS requirements are not to be based on an entity's perception of the risk of not implementing the requirement.  Organizations may not choose which PCI DSS requirements they want to implement, and risk assessments cannot be used as a means of avoiding or bypassing applicable PCI DSS requirements.<br/>
+<br/>
+
+The applicability of specific PCI DSS requirements to a particular system may vary according to the function of that particular system.  For example, PCI DSS Requirements 3.4 - 3.6 for the secure storage of cardholder would not be applicable to systems that do not in any way store, or manage the storage of, cardholder data. It would also have to be verified that the system does not have any access to stored cardholder data, cryptographic keys, or the encryption/decryption mechanisms, in order for those requirements to be considered "not applicable" for that system. <br/>
+<br/>
+
+In another example, PCI DSS Requirement 2.1.1 for securing wireless technologies would not apply to a system component that was verified as not having any wireless technology.  Similarly, PCI DSS Requirements for secure firewall configurations (Requirements 1.1 - 1.3) apply to those components performing firewall functions.<br/>
+<br/>
+
+Some PCI DSS requirements may also be applied at the network level, rather than on every system.  For example, requirements for intrusion-detection and/or intrusion-prevention systems to monitor traffic in the CDE may be implemented at the network level rather than on every system in the environment.  Again, it would have to be verified by the PCI DSS assessor that the network-level control provided coverage for all systems that the requirement applies to.<br/>
+<br/>
+
+Determining that any PCI DSS requirement is not applicable to a system must be verified and supported with documented evidence. Any controls used to reduce applicability of PCI DSS requirements (for example, controls to ensure a system component cannot access cardholder data) must also be verified to be implemented properly and working as intended.

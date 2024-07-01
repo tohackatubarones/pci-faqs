@@ -1,0 +1,1 @@
+The PCI SSC does not manage the process for reporting PCI DSS compliance. Please check with your acquiring bank or payment card brands for this information.

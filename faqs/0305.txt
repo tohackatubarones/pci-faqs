@@ -1,0 +1,9 @@
+Payment Tokens, as defined by EMVCo in the "<i>EMVCo Payment Tokenisation Specification - Technical Framework"</i>, are provided to merchants and acquirers in lieu of the cardholder's PAN. They are routed through the payment networks in the same way as a PAN and allow transactions to occur without the merchant being exposed to the underlying PAN.<br/>
+<br/>
+
+Payment Tokens must be used in conjunction with a dynamic token cryptogram and/or other sufficient domain controls that are enforced during a payment transaction (as defined by the EMVCo<i> Payment Tokenisation Specification - Technical Framework</i>) to adequately prevent fraud. It is also not feasible to recover the PAN value associated with the Payment Token through knowledge of only the Payment Token, multiple Payment Tokens, or other Payment Token to PAN combinations.<br/>
+<br/>
+
+Applicability of PCI DSS to Payment Tokens is described below.<br/>
+<br/>
+<b><u>For entities designated by EMVCo as Token Service Providers:</u></b>

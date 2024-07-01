@@ -1,0 +1,7 @@
+<span style="color: #383838">PFI Companies must adhere to the independence requirements of the PFI program as defined in the PFI Qualification Requirements and Program Guide. Whether a PFI Company can conduct a PFI investigation more than once on the same entity will depend on circumstance. For example; if during an investigation the PFI Company carried out work which impacted the PCI DSS compliance status of the entity, and the entity subsequently identifies or suspects a breach, that PFI Company is not able to satisfy the independence requirements for a subsequent investigation.<br/>
+<br/>
+
+Each payment brand has their own rules when a PFI must be engaged, and merchants should consult their acquirer and/or the payment brands concerning any issues which may influence a PFI Company's ability to perform an independent investigation, including instances where there is continuation of breach/rebreach after a PFI Final Report has been issued.'<br/>
+<br/>
+
+Payment brand contact details are provided in FAQ #1142'<a data-lr="1" href="/faq/articles/Frequently_Asked_Question/How-do-I-contact-the-payment-card-brands" rel="noopener" target="_blank">How do I contact the payment card brands?</a>

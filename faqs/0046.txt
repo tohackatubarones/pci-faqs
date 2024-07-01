@@ -1,0 +1,1 @@
+Yes, a PCI-listed P2PE application validated to P2PE v3 can be used as part of a P2PE solution or component validated to P2PE v2.  Note that the associated P2PE Program Guide must be used (i.e, in this case the P2PE v3 Program Guide for the P2PE v3 application and the P2PE v2 Program Guide for the P2PE v2 solution/component).

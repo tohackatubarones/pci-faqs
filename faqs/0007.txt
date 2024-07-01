@@ -1,0 +1,1 @@
+No, PCI DSS Requirement 9.9 does not require devices to be fixed in place or physically attached to a surface. Requirement 9.9 and its three sub-requirements address three areas of device security:

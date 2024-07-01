@@ -1,0 +1,1 @@
+PCI SSC recognizes that there may be a need for PFIs to personalize the PFI Report Templates, such as adding a company logo or add rows for more detail. However, such changes must be limited per the following:

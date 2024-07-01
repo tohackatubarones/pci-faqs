@@ -1,0 +1,1 @@
+No. Secure Software Assessors and Secure SLC Assessors in good standing do not need to report CPEs to PCI SSC. The CPEs that these Assessors are required to obtain and report to other certification bodies in order to maintain their industry-recognized certifications are sufficient to ensure they stay current in their field of practice.

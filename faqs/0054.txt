@@ -1,0 +1,1 @@
+<span style="font-family: Calibri,sans-serif"><span style="color: black">A PCI-listed P2PE solution can significantly reduce the number of PCI DSS requirements applicable to a merchant's cardholder data environment. However, it does not completely remove the applicability of PCI DSS in the merchant environment. 

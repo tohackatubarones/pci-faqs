@@ -1,0 +1,1 @@
+No. QSAs and ASVs do not send reports of compliance or scanning results to the PCI Security Standards Council, and they should continue to follow the payment brand specific procedures.

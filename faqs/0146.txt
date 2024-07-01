@@ -1,0 +1,1 @@
+Merchants should contact the acquiring financial institutions with whom they have merchant agreements (for example, their merchant bank) to determine whether they must validate compliance and the specific requirements for performing and reporting their compliance validation. Service providers should contact the individual payment brands for further information.

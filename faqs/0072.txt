@@ -1,0 +1,4 @@
+Yes, a PFI Final Report is required.  The expectation is that the PFI must complete the merchant's PFI Investigation and produce the PFI Final Report, with details of adequate evidence to support claims.<br/>
+<br/>
+
+PCI SSC has received multiple inquiries on how to move forward on a third-party service provider case where the breach has been confirmed to have occurred and affected merchants, particularly where some affected merchants may have already begun their own PFI engagements. While there is no "one size fits all" response to such inquiry, PCI SSC can provide the following guidance to PFIs in determining next steps:

@@ -1,0 +1,1 @@
+Service providers include business entities that are not a payment brand, directly involved in the processing, storage, or transmission of cardholder data on behalf of another entity. This includes organizations providing acquiring services — for example, payment gateways, PSPs, ISOs etc.  

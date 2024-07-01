@@ -1,0 +1,4 @@
+<span style="color: black">The PCI SSC document library contains an overview that answers numerous questions about the PCI 3DS Core Security Standard (otherwise known as the <i>PCI 3DS Security Requirements and Assessment Procedures for EMVÆ 3-D Secure Core Components: ACS, DS, and 3DS Server.)</i><span style="color: #383637"> <br/>
+
+ <br/>
+<span style="color: black">This overview document answers various questions, from "What is 3DS"?, questions about the PCI 3DS Security Standard itself, in addition to relationships with other PCI SSC Standards. The overview document can be found <a href="https://www.pcisecuritystandards.org/documents/Overview-PCI-3DS-Core-Security-Standard.pdf?agreement=true&amp;time=1617729076719" rel="noopener" style="color: #0563c1;text-decoration: underline" target="_blank">here</a>.

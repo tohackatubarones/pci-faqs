@@ -1,0 +1,14 @@
+No, PCI SSC does not require QSAs or ISAs to visit personnel private residences for any purpose, including the review of work-from-home (WFH) environments to validate PCI DSS requirements.<br/>
+
+Entities should have policies and procedures implemented to provide assurance that applicable PCI DSS controls are in place for WFH personnel and that such personnel are aware of and adhering to the entity's secure practices.<br/>
+<br/>
+
+Assessors should work with the entity to understand the processes and controls the entity has implemented to secure connections from personnel in WFH environments. This includes understanding how the entity ensures that account data is stored, processed, or transmitted from WFH environments in accordance with applicable PCI DSS requirements, and how the entity gains assurance that those controls continue to function effectively to protect the entity's network and cardholder data.<br/>
+<br/>
+
+See also the following FAQs:<br/>
+
+FAQ 1494:<i>  <a data-lr="1" href="/faq/articles/Frequently_Asked_Question/For-personnel-working-from-home-is-the-work-from-home-environment-considered-a-sensitive-area-for-PCI-DSS-Requirement-9" rel="noopener" target="_blank">For personnel working from home, is the work-from-home environment considered a "sensitive area" for PCI DSS Requirement 9?</a></i><br/>
+<br/>
+
+FAQ 1496: <i> <a data-lr="2" href="/faq/articles/Frequently_Asked_Question/Are-entities-expected-to-do-onsite-audits-of-personnel-work-from-home-environments" rel="noopener" target="_blank">Are entities expected to do onsite audits of personnel work-from-home environments?</a></i>

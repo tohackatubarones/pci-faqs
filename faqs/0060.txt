@@ -1,0 +1,1 @@
+When an entity (the TPSP customer) uses one or more TPSPs for functions within or related to the customer's cardholder data environment, it will impact the customer's PCI DSS compliance, specifically with PCI DSS Requirement 12.8 and with any PCI DSS requirements the TPSP is meeting on the customer's behalf.

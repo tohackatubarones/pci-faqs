@@ -1,0 +1,4 @@
+Where a future-dated requirement has not yet been implemented by an entity and the Report on Compliance (ROC) or Self-Assessment Questionnaire (SAQ) is completed prior to the effective date of the new requirement, the future-dated requirement can be marked as "Not Applicable." <br/>
+<br/>
+
+Where an entity relies on a third-party service provider (TPSP) to meet PCI DSS requirements on the entity's behalf, and:

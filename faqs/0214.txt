@@ -1,0 +1,26 @@
+Compliance-accepting entities (typically, payment brands and acquirers) are responsible for determining the PCI DSS validation and reporting methods of their merchants and service providers, including how compliance is to be evidenced–for example, whether via a Report on Compliance (ROC) or a Self-Assessment Questionnaire (SAQ). Compliance-accepting entities may also provide direction to their customers about which PCI DSS requirements to include in the assessment–for example, they may require that only a specific subset of PCI DSS requirements, such as those included in an SAQ, be tested and the results documented in a ROC.<br/>
+<br/>
+
+Assessors are responsible for validating that the scope of the assessment and that applicability of PCI DSS requirements is accurately defined and documented. To report a PCI DSS requirement as 'Not Applicable', the assessor must first confirm through testing that the requirement is truly not applicable to that environment. This confirmation must be performed and documented for all "Not Applicable" responses before a compliant result can be considered for the assessment.<br/>
+<br/>
+
+Alternatively, a "Not Tested" response is used for assessments where a requirement (or a single aspect of a requirement) is not tested in any way – this means the requirement (or aspect thereof) is completely excluded from the assessment without any consideration as to whether it does or could apply.<br/>
+<br/>
+
+If a compliance-accepting entity directs an assessed entity or its assessor to exclude any PCI DSS requirement(s) from an assessment, that requirement(s) must be marked as 'Not Tested.'<br/>
+<br/>
+
+The <i>PCI DSS ROC Template</i> provides detailed instructions on how to properly document the findings from the testing performed, including the difference between "Not Tested" and "Not Applicable" responses.<br/>
+<br/>
+<i>Note that whether a "Not Tested" response can result in PCI DSS compliance is treated differently between PCI DSS v3.2.1 and v4.0</i>?<i>QSAs must refer to the ROC Template and the ROC Template FAQs for the version of the standard being used for relevant guidance.</i><br/>
+<br/>
+
+Entities should contact the payment brands directly for information about their compliance programs and reporting requirements. Contact details for the payment brands can be found in FAQ 1142: <a data-lr="1" href="/faq/articles/Frequently_Asked_Question/How-do-I-contact-the-payment-card-brands" rel="noopener" target="_blank">How do I contact the payment card brands?</a><br/>
+
+See also:<br/>
+<br/>
+
+FAQ 1382: <a data-lr="2" href="/faq/articles/Frequently_Asked_Question/Can-a-partial-PCI-DSS-assessment-be-documented-in-a-Report-on-Compliance-ROC" rel="noopener" target="_blank">Can a partial PCI DSS assessment be documented in a Report on Compliance (ROC)?</a><br/>
+<br/>
+
+FAQ 1331: 

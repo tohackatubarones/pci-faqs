@@ -1,0 +1,10 @@
+PCI DSS applies to any entity that stores, processes or transmits cardholder data.<br/>
+<br/>
+
+If a merchant outsources all their payment operations, the applicable PCI DSS requirements for the protection of account data would apply to the environment(s) where the data is actually stored, processed and transmitted, such as third party service providers, payment gateways, etc. However, it is the responsibility of the merchant to ensure that the data they share with third parties is properly handled and protected - just because a merchant outsources all payment processing does not mean that the merchant won't be held responsible by their acquirer or payment brand in the event of an account data compromise.<br/>
+<br/>
+
+Additionally, the merchant's acquirer or payment brand may still require the merchant to validate their PCI DSS compliance status. For example, the merchant may be required to complete SAQ A in which the merchant attests that they have outsourced all payment processing services, do not store account data, and that they are compliant with PCI DSS Requirement 12.8. PCI DSS Requirement 12.8 states that merchants must have written agreements with their service providers that include the service provider's acknowledgement of their responsibility for securing the data in their possession, and also requires that merchants monitor their service provider's compliance at least annually.<br/>
+<br/>
+
+Merchants should check with their acquirer or payment brand to determine their compliance obligations when all payment processing is outsourced.

@@ -1,0 +1,1 @@
+<span style="font-family: Calibri,sans-serif">No. PCI SSC does not require that an entity's assessor go onsite to the entity's TPSP and retest PCI DSS requirements that have already been covered in the TPSP's current PCI DSS assessment.

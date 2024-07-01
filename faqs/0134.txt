@@ -1,0 +1,10 @@
+Yes.  Per the PCI DSS Qualification Requirements for Qualified Security Assessors, PCI SSC reserves the right to revoke AQSA Program qualification or reject any future AQSA Program application from a QSA Company that PCI SSC determines has committed conduct that constitutes a "Violation" for purposes of applicable AQSA Program requirements, including but not limited to failure to meet AQSA Program quality standards or comply with applicable AQSA Program requirements. The period of ineligibility is a minimum of one (1) year, as determined by PCI SSC in a reasonable and non-discriminatory manner.<br/>
+
+ <br/>
+
+For example, if PCI SSC determines that a QSA Company failed to provide required resources to support an AQSA in their development with a mentor as required per AQSA Program requirements, under the QSA Qualification Requirements that conduct would constitute a "Violation" and "failure to comply with...applicable Program Qualification Requirements (defined in the QSA Agreement)... or program guides...", and result in Associate QSA Program ineligibility for at least one (1) year. <br/>
+<br/>
+
+ <br/>
+
+ 

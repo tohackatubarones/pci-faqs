@@ -1,0 +1,1 @@
+The Attestation of Compliance is the document used to indicate that the appropriate Report on Compliance or Self-assessment Questionnaire has been performed, and to attest to your organization's compliance status with PCI DSS.

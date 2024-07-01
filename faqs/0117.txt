@@ -1,0 +1,1 @@
+Application version numbers may consist of any combination of alphanumeric characters to create a unique version, discernible from other versions of that payment application, based on the vendor's versioning methodology. The version number can be any length and can be segmented to represent different types or categories of changes.<br/> 

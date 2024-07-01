@@ -1,0 +1,1 @@
+The Expiry Date for PA-DSS Validated Payment Applications is the date by which a vendor must have the application reassessed against the current PA-DSS requirements in order for the application to remain listed as "Acceptable for New Deployments" on the PCI SSC website.<br/><br/>PA-DSS expiry dates are as follows:

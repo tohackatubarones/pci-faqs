@@ -1,0 +1,1 @@
+Yes, as long as all SAQ eligibility criteria are met. For example, SAQ B-IP, SAQ C and SAQ C-VT are each intended for environments using only permitted system types, as defined in the eligibility criteria for each SAQ. A brief description for each SAQ is provided below:

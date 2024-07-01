@@ -1,0 +1,1 @@
+<span style="color: black">When assessment results are associated with compliance programs defined and managed by one or more payment brands, the compliance-accepting entity is the entity to which those assessment results (for example, a Report on Compliance) are submitted.  The compliance-accepting entity is typically a payment brand or acquirer. 

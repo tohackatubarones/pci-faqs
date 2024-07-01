@@ -1,0 +1,1 @@
+PCI DSS applies to all primary account numbers (PANs) that represent a PCI SSC Participating Payment Brand. Whether a one-time PAN is in scope for PCI DSS will depend on the particular restrictions around their usage as defined by the payment brands. Entities should contact the applicable payment brand to determine how PCI DSS applies.

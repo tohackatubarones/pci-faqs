@@ -1,0 +1,1 @@
+<span style="float: none">PCI DSS applies to any entity that stores, processes, or transmits cardholder data. Whether entities with cardholder data on their own corporate cards need to validate compliance is determined by each payment brand individually. Depending on the marks on those corporate cards, please contact the applicable payment brands directly.

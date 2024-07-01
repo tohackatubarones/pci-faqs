@@ -1,0 +1,11 @@
+Secure Software Assessors are qualified by PCI SSC to validate payment software adherence to the Secure Software Standard.<br/>
+<br/>
+
+Qualified Secure Software Assessors will have the <b>Assessment Type</b> of "Secure Software" noted in their listing in the <a href="https://www.pcisecuritystandards.org/assessors_and_solutions/software_security_framework_assessors" rel="noopener" style="color: #0563c1;text-decoration: underline" target="_blank"><span style="color: #3498db">PCI SSC list of Software Security Framework Assessors</a><span style="color: #3498db">.<br/>
+<br/>
+
+See also the following FAQs:<br/>
+
+FAQ 1538: <a data-lr="1" href="/faq/articles/Frequently_Asked_Question/What-is-the-process-to-initiate-a-software-evaluation-to-the-PCI-Secure-Software-Standard" rel="noopener" target="_blank"><span style="color: #3498db">What is the process to initiate a software evaluation to the PCI Secure Software Standard?</a><br/>
+
+FAQ 1540: <a data-lr="2" href="/faq/articles/Frequently_Asked_Question/What-software-is-eligible-for-validation-to-the-PCI-Secure-Software-Standard" rel="noopener" target="_blank"><span style="color: #3498db">What software is eligible for validation to the PCI Secure Software Standard?</a>

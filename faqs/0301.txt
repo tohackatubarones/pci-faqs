@@ -1,0 +1,1 @@
+The Luhn formula or Modulus 10 is the algorithm most often used to validate Primary Account Numbers (PAN). The algorithm works as follows:                        

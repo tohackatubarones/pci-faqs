@@ -1,0 +1,13 @@
+Payment applications that are listed as Acceptable only for Pre-existing Deployments have previously been validated as meeting PA-DSS but the validation is no longer current. This may be due to the validation being to an expired version of PA-DSS, or because the application vendor has chosen to or does not meet the annual revalidation requirements. <br/>
+<br/>
+
+Applications listed as Acceptable only for Pre-existing Deployments could still be capable of meeting the current version of PA-DSS; however, this is not assured and should not be assumed. If a previously-validated payment application no longer meets the current version of PA-DSS, it is also likely that it can't meet the current version of PCI DSS, and entities using the application may need to implement additional security controls as part of their PCI DSS implementation.  As an example; an application validated to PA-DSS v2.0 could be transmitting cardholder data using an encryption protocol that is no longer considered strong cryptography.   In this scenario, the application would not meet the current version of PA-DSS and would not be sufficient to meet PCI DSS Requirement 4.1.  Entities using the application will need to implement additional and/or alternative controls to secure any cardholder data sent by the application over public or untrusted networks.<br/>
+<br/>
+
+Entities using PA-DSS validated payment applications should be familiar with the Implementation Guide provided by the vendor for their application.  The Implementation Guide contains information about the application's configuration and security settings, and also identifies which protocols are used by the application. This information may help the entity determine whether the application continues to meet their security needs and whether it supports the current version of PCI DSS.<br/>
+<br/>
+
+If the application no longer meets current PA-DSS requirements, but is still supported by the vendor, entities are encouraged to contact the vendor to determine if an update is available. <br/>
+<br/>
+
+See also the following FAQs:

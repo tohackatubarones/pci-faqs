@@ -1,0 +1,1 @@
+Without proper network segmentation to isolate the systems that store, process or transmit cardholder data from those that do not, all system components in that network are considered part of the cardholder data environment, the entire network is in scope for PCI DSS, and all PCI DSS requirements apply.

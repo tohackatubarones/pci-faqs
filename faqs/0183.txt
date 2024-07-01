@@ -1,0 +1,1 @@
+<span style="font-family: Calibri,sans-serif">Encryption of cardholder data with strong cryptography is an acceptable method of rendering the data unreadable according to PCI DSS Requirement 3.5.1. However, encryption alone is insufficient to render the cardholder data out of scope for PCI DSS.

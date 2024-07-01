@@ -1,0 +1,1 @@
+New application validations and High Impact Changes using PA-DSS 2.0 are no longer accepted.  Low Impact and No Impact Changes to listed applications that were previously validated using PA-DSS 2.0 will be accepted until 28 October 2016.

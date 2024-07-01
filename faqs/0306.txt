@@ -1,0 +1,1 @@
+<span style="color: #383637">Acceptable truncation formats vary according to PAN length and Participating Payment Brand requirements.

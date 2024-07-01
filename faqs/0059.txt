@@ -1,0 +1,1 @@
+<span style="color: black">Only the PCI-listed P2PE v3 component types that also exist in P2PE v2 may be used in a P2PE v2 solution assessment, which are:

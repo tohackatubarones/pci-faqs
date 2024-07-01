@@ -1,0 +1,25 @@
+Masking is addressed in PCI DSS Requirement 3.3, whereas truncation is one of several options specified to meet PCI DSS Requirement 3.4.<br/>
+<br/>
+
+Requirement 3.3 relates to protection of PAN where it is <b>displayed</b> on screens, paper receipts, printouts, etc., and is not to be confused with Requirement 3.4 for protection of PAN when <b>stored, processed, or transmitted</b> in files, databases, etc. <br/>
+<br/>
+
+Masking is a method of concealing a segment of a primary account number (PAN) when displayed or printed (for example, on paper receipts, reports, or computer screens), and is used when there is no business need to view the entire PAN.<br/>
+<br/>
+
+Truncation is a method of rendering a full PAN unreadable by removing a segment of PAN data and applies to PANs that are electronically stored (for example, in files, databases, etc.). <br/>
+<br/>
+
+Masking is not synonymous with truncation and these terms cannot be used interchangeably. Masking refers to the concealment of certain digits during display or printing, even when the entire PAN is stored on a system. This is different from truncation, in which the truncated digits are removed and cannot be retrieved within the system. Masked PAN could be 'unmasked', but there is no "un-truncation" without recreating the PAN from another source.<br/>
+<br/>
+
+Note that even if a PAN is masked when displayed, the full PAN might still be electronically stored and would need to be protected in accordance with PCI DSS Requirement 3.4.<br/>
+<br/>
+
+Entities should also be aware of any stricter requirements that may apply to displays of cardholder data, such as specific Payment Brand regulations and regulatory or legislative requirements —for example, restrictions for data displayed on point-of-sale (POS) receipts. PCI DSS does not supersede local or regional laws or other legislative requirements.<br/>
+<br/>
+
+See also the following FAQs:<br/>
+<br/>
+
+FAQ 1117: <a data-lr="1" href="/faq/articles/Frequently_Asked_Question/Are-truncated-Primary-Account-Numbers-PAN-required-to-be-protected-in-accordance-with-PCI-DSS" rel="noopener" target="_blank">Are truncated Primary Account Numbers (PAN) required to be protected in accordance with PCI DSS?</a>

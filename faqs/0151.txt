@@ -1,0 +1,4 @@
+No. PCI DSS prohibits storage of card verification codes, for example, after transaction authorization or to facilitate potential future transactions.<br/>
+<br/>
+
+There are four common scenarios where organizations may want to, or think it is necessary to, store card verification codes for consumers, due to software or functionality on a consumer's device: 

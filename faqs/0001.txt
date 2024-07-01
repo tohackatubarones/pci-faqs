@@ -1,0 +1,6 @@
+No. The period for which an entity's PCI DSS assessment result is valid does not change if the standard against which the entity was assessed has been retired. However, how long an assessment result is valid and how frequently an entity must be reassessed is determined by organizations that manage compliance programs (for example, payment brands and acquirers).<br/>
+<br/>
+
+Entities should always contact their acquirer or the payment brands directly for information about their compliance programs and reporting requirements. Contact details for the payment brands can be found in FAQ #1142 <a data-lr="1" href="/faq/articles/Frequently_Asked_Question/How-do-I-contact-the-payment-card-brands" rel="noopener" target="_blank">How do I contact the payment card brands?</a><br/>
+
+Also refer to the following related FAQs:

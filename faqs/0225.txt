@@ -1,0 +1,1 @@
+Two-step or multi-step authentication may be acceptable for PCI DSS Requirement 8.3, if all of the following conditions are met:

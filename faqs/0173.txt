@@ -1,0 +1,1 @@
+Yes. Vendors whose software development practices have been validated to the Secure SLC Standard are added to the list of <a href="https://www.pcisecuritystandards.org/assessors_and_solutions/software_lifecycle?agree=true" rel="noopener" style="color: #0563c1;text-decoration: underline" target="_blank">Secure SLC Qualified Vendors</a>.

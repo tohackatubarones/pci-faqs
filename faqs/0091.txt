@@ -1,0 +1,4 @@
+Where an entity is being assessed for the first time against a PCI DSS requirement with a defined timeframe, it is considered an initial PCI DSS assessment for that requirement. This means the entity has never undergone a prior assessment to that requirement, where the assessment resulted in submission of a compliance validation document (for example, an AOC, SAQ, or ROC).<br/>
+<br/>
+
+For an initial assessment against a requirement that has a defined timeframe (for example, with an activity that is to be performed once every three or six months), it is not required that the activity has been performed for every such timeframe during the previous year, if the assessor verifies that:

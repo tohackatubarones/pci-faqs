@@ -1,0 +1,18 @@
+No. An individual's private work-from-home (WFH) environment is not considered a "sensitive area," and personnel working from home are not required to meet PCI DSS Requirements 9.1.1 or 9.3 for their WFH environments.<br/>
+<br/>
+
+"Personnel working from home" refers to individuals that are employed by an entity to perform business duties from the individual's private residence; this does not include individuals running their own home-based business.<br/>
+<br/>
+
+A sensitive area is typically a subset of the cardholder data environment (CDE) and is any area that houses systems considered critical to the CDE. This includes data centers, server rooms, back-office rooms at retail locations, and any area that concentrates or aggregates cardholder or account data storage, processing, or transmission. Sensitive areas also include areas housing systems that manage or maintain the security of the CDE (for example, those providing network security or that manage physical or logical security).<br/>
+<br/>
+
+As a WFH environment is not considered a sensitive area, it is not expected that video cameras and/or access control mechanisms are in place to monitor or physically restrict access within these environments. Personnel working from home are expected to adhere to their organization's security policies and procedures, including limiting access to cardholder data within their  WFH environments - for example, using only company-authorized devices to access cardholder data, locking computer screens when stepping away from the computer, securing any storage of paper copies of cardholder data to prevent unauthorized access, and following the organization's policies for securing network and computer equipment used at home for work purposes.<br/>
+<br/>
+
+See also the following FAQs:<br/>
+
+FAQ 1495: <i> <a data-lr="1" href="/faq/articles/Frequently_Asked_Question/Is-an-assessor-required-to-visit-work-from-home-environments-to-determine-if-personnel-are-meeting-PCI-DSS-requirements" rel="noopener" target="_blank">Is an assessor required to visit work-from-home environments to determine if personnel are meeting PCI DSS requirements?</a></i><br/>
+<br/>
+
+FAQ 1496: <i> <a data-lr="2" href="/faq/articles/Frequently_Asked_Question/Are-entities-expected-to-do-onsite-audits-of-personnel-work-from-home-environments" rel="noopener" target="_blank">Are entities expected to do onsite audits of personnel work-from-home environments?</a></i>

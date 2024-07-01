@@ -1,0 +1,1 @@
+<span style="color: #2f2f2f">P2PE solutions validated to P2PE v3.0 can contain P2PE components and applications validated using P2PE v2.0.  <br/><br/>Note, the P2PE v2 components are governed by the P2PE v2 Program Guide.  The v3 solution assessment is governed by the P2PE v3 Program Guide. 

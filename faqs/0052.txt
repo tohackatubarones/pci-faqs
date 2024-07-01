@@ -1,0 +1,11 @@
+The eligibility criteria for software validation to the PCI Secure Software Standard is defined in the Secure Software Program Guide, available in the <a href="https://www.pcisecuritystandards.org/document_library" rel="noopener" style="color: #0563c1;text-decoration: underline" target="_blank"><span style="color: #3498db">Document Library</a><span style="color: #3498db">.<br/>
+<br/>
+
+Whether an entity is required to use software validated to the Secure Software Standard is determined by individual payment brand mandates, and not by PCI SSC. For information about payment brand requirements for use of Secure Software validated applications, please contact the payment brands directly. Payment brand contact details can be found in <a href="/faq/articles/Frequently_Asked_Question/How-do-I-contact-the-payment-card-brands?q=PA-DSS&amp;l=en_US&amp;fs=Search" rel="noopener" style="color: #0563c1;text-decoration: underline" target="_blank"><span style="color: #3498db">FAQ 1142 How do I contact the payment card brands?</a><br/>
+<br/>
+
+See also the following FAQs:<br/>
+
+FAQ 1538: <a href="/faq/articles/Frequently_Asked_Question/What-is-the-process-to-initiate-a-software-evaluation-to-the-PCI-Secure-Software-Standard" rel="noopener" target="_blank"><span style="color: #3498db">What is the process to initiate a software evaluation to the PCI Secure Software Standard?</a><br/>
+
+FAQ 1539: <a href="/faq/articles/Frequently_Asked_Question/Who-is-qualified-to-perform-assessments-to-the-PCI-Secure-Software-Standard" rel="noopener" target="_blank"><span style="color: #3498db">Who is qualified to perform assessments to the PCI Secure Software Standard?</a>

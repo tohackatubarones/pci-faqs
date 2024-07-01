@@ -1,0 +1,1 @@
+In general, frame relay can be considered private if it is dedicated to the customer's traffic. The PCI DSS requires encryption for transmission of cardholder data over public networks, not private networks.
